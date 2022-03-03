@@ -1,0 +1,1125 @@
+
+
+Day 1
+UCS:
+	Visited Nodes: 5
+	Execution Time: 27604205 ns
+	Path: 10Node9e(11.33) -> 10Node3e(54.693) -> 9Node6e(26.78) -> 9Node5e(23.69) -> 9Node0e
+	Predicted Cost: 116.493
+	Real Cost: 119.6
+IDA*:
+	Visited Nodes number: 6
+	Execution Time: 109186242 ns
+	Path: 10Node9e(11.33) -> 10Node3e(54.693) -> 9Node6e(16.738) -> 9Node4e(9.27) -> 9Node1e(67.98) -> 9Node0e
+    Predicted Cost: 160.011
+    Real Cost: 171.85
+
+Day 2
+UCS:
+	Visited Nodes: 6
+	Execution Time: 7799620 ns
+	Path: 10Node9e(14.245) -> 10Node3e(35.431) -> 9Node4e(12.121) -> 9Node6e(24.242) -> 9Node5e(21.445) -> 9Node0e
+	Predicted Cost: 107.484
+	Real Cost: 106.35
+IDA*:
+	Visited Nodes number: 6
+	Execution Time: 83934599 ns
+	Path: 10Node9e(14.245) -> 10Node3e(55.012) -> 9Node6e(12.121) -> 9Node4e(11.655) -> 9Node1e(61.538) -> 9Node0e
+    Predicted Cost: 154.571
+    Real Cost: 155.8
+
+Day 3
+UCS:
+	Visited Nodes: 6
+	Execution Time: 3062857 ns
+	Path: 10Node9e(11.404) -> 10Node3e(39.397) -> 9Node4e(13.478) -> 9Node6e(24.26) -> 9Node5e(23.845) -> 9Node0e
+	Predicted Cost: 112.384
+	Real Cost: 104.6
+IDA*:
+	Visited Nodes number: 6
+	Execution Time: 52984562 ns
+	Path: 10Node9e(11.404) -> 10Node3e(76.46) -> 9Node6e(13.478) -> 9Node4e(9.331) -> 9Node1e(85.532) -> 9Node0e
+    Predicted Cost: 196.205
+    Real Cost: 172.75
+
+Day 4
+UCS:
+	Visited Nodes: 5
+	Execution Time: 3360781 ns
+	Path: 10Node9e(14.193) -> 10Node3e(49.032) -> 9Node4e(9.29) -> 9Node1e(61.316) -> 9Node0e
+	Predicted Cost: 133.831
+	Real Cost: 152.75
+IDA*:
+	Visited Nodes number: 6
+	Execution Time: 60412816 ns
+	Path: 10Node9e(14.193) -> 10Node3e(76.128) -> 9Node6e(46.451) -> 9Node3e(41.29) -> 9Node1e(61.316) -> 9Node0e
+    Predicted Cost: 239.378
+    Real Cost: 265.0
+
+Day 5
+UCS:
+	Visited Nodes: 6
+	Execution Time: 3965317 ns
+	Path: 10Node9e(14.276) -> 10Node3e(39.453) -> 9Node4e(28.033) -> 9Node8e(12.459) -> 9Node5e(23.88) -> 9Node0e
+	Predicted Cost: 118.101
+	Real Cost: 124.25
+IDA*:
+	Visited Nodes number: 8
+	Execution Time: 50704081 ns
+	Path: 10Node9e(15.574) -> 10Node0e(26.164) -> 5Node0e(15.885) -> 5Node1e(30.109) -> 5Node4e(13.082) -> 5Node2e(43.607) -> 5Node3e(28.033) -> 9Node0e
+    Predicted Cost: 172.454
+    Real Cost: 175.45
+
+Day 6
+UCS:
+	Visited Nodes: 5
+	Execution Time: 4421851 ns
+	Path: 10Node9e(11.487) -> 10Node3e(61.611) -> 9Node6e(24.435) -> 9Node5e(24.018) -> 9Node0e
+	Predicted Cost: 121.551
+	Real Cost: 119.0
+IDA*:
+	Visited Nodes number: 6
+	Execution Time: 62577636 ns
+	Path: 10Node9e(11.487) -> 10Node3e(61.611) -> 9Node6e(13.575) -> 9Node4e(8.458) -> 9Node1e(86.151) -> 9Node0e
+    Predicted Cost: 181.282
+    Real Cost: 173.6
+
+Day 7
+UCS:
+	Visited Nodes: 6
+	Execution Time: 3223158 ns
+	Path: 10Node9e(11.437) -> 10Node3e(35.559) -> 9Node4e(12.165) -> 9Node6e(27.033) -> 9Node5e(23.914) -> 9Node0e
+	Predicted Cost: 110.108
+	Real Cost: 103.6
+IDA*:
+	Visited Nodes number: 6
+	Execution Time: 56759176 ns
+	Path: 10Node9e(11.437) -> 10Node3e(61.345) -> 9Node6e(12.165) -> 9Node4e(9.358) -> 9Node1e(61.761) -> 9Node0e
+    Predicted Cost: 156.066
+    Real Cost: 150.1
+
+Day 8
+UCS:
+	Visited Nodes: 6
+	Execution Time: 3534288 ns
+	Path: 10Node9e(11.388) -> 10Node3e(35.406) -> 9Node4e(31.058) -> 9Node8e(12.423) -> 9Node5e(23.811) -> 9Node0e
+	Predicted Cost: 114.086
+	Real Cost: 120.7
+IDA*:
+	Visited Nodes number: 6
+	Execution Time: 49661451 ns
+	Path: 10Node9e(11.388) -> 10Node3e(61.08) -> 9Node6e(16.823) -> 9Node4e(11.647) -> 9Node1e(85.408) -> 9Node0e
+    Predicted Cost: 186.346
+    Real Cost: 194.75
+
+Day 9
+UCS:
+	Visited Nodes: 5
+	Execution Time: 2786068 ns
+	Path: 10Node9e(11.454) -> 10Node3e(61.434) -> 9Node6e(24.365) -> 9Node5e(29.936) -> 9Node0e
+	Predicted Cost: 127.189
+	Real Cost: 122.15
+IDA*:
+	Visited Nodes number: 6
+	Execution Time: 48708726 ns
+	Path: 10Node9e(11.454) -> 10Node3e(61.434) -> 9Node6e(16.92) -> 9Node4e(9.371) -> 9Node1e(85.903) -> 9Node0e
+    Predicted Cost: 185.082
+    Real Cost: 177.75
+
+Day 10
+UCS:
+	Visited Nodes: 6
+	Execution Time: 2358492 ns
+	Path: 10Node9e(15.551) -> 10Node0e(29.029) -> 5Node0e(7.776) -> 5Node4e(41.055) -> 5Node3e(27.992) -> 9Node0e
+	Predicted Cost: 121.403
+	Real Cost: 126.4
+IDA*:
+	Visited Nodes number: 8
+	Execution Time: 49998895 ns
+	Path: 10Node9e(15.551) -> 10Node0e(29.029) -> 5Node0e(22.031) -> 5Node1e(30.066) -> 5Node4e(13.063) -> 5Node2e(43.544) -> 5Node3e(27.992) -> 9Node0e
+    Predicted Cost: 181.276
+    Real Cost: 175.9
+
+Day 11
+UCS:
+	Visited Nodes: 6
+	Execution Time: 3529275 ns
+	Path: 10Node9e(14.266) -> 10Node3e(39.425) -> 9Node4e(12.139) -> 9Node6e(24.278) -> 9Node5e(23.863) -> 9Node0e
+	Predicted Cost: 113.971
+	Real Cost: 109.85
+IDA*:
+	Visited Nodes number: 6
+	Execution Time: 46267642 ns
+	Path: 10Node9e(14.266) -> 10Node3e(76.516) -> 9Node6e(12.139) -> 9Node4e(9.338) -> 9Node1e(85.594) -> 9Node0e
+    Predicted Cost: 197.853
+    Real Cost: 190.7
+
+Day 12
+UCS:
+	Visited Nodes: 5
+	Execution Time: 3361786 ns
+	Path: 10Node9e(14.204) -> 10Node3e(60.947) -> 9Node6e(24.172) -> 9Node5e(23.759) -> 9Node0e
+	Predicted Cost: 123.082
+	Real Cost: 119.15
+IDA*:
+	Visited Nodes number: 6
+	Execution Time: 45591791 ns
+	Path: 10Node9e(14.204) -> 10Node3e(60.947) -> 9Node6e(58.106) -> 9Node3e(41.32) -> 9Node1e(68.178) -> 9Node0e
+    Predicted Cost: 242.755
+    Real Cost: 224.4
+
+Day 13
+UCS:
+	Visited Nodes: 6
+	Execution Time: 2559476 ns
+	Path: 10Node9e(14.142) -> 10Node3e(35.175) -> 9Node4e(13.37) -> 9Node6e(24.067) -> 9Node5e(23.655) -> 9Node0e
+	Predicted Cost: 110.409
+	Real Cost: 120.25
+IDA*:
+	Visited Nodes number: 6
+	Execution Time: 47375607 ns
+	Path: 10Node9e(14.142) -> 10Node3e(60.681) -> 9Node6e(13.37) -> 9Node4e(9.256) -> 9Node1e(67.881) -> 9Node0e
+    Predicted Cost: 165.33
+    Real Cost: 160.75
+
+Day 14
+UCS:
+	Visited Nodes: 6
+	Execution Time: 2784447 ns
+	Path: 10Node9e(11.322) -> 10Node3e(35.2) -> 9Node4e(12.042) -> 9Node6e(26.761) -> 9Node5e(21.305) -> 9Node0e
+	Predicted Cost: 106.63
+	Real Cost: 111.65
+IDA*:
+	Visited Nodes number: 5
+	Execution Time: 36361709 ns
+	Path: 10Node9e(11.322) -> 10Node3e(35.2) -> 9Node4e(9.263) -> 9Node1e(61.137) -> 9Node0e
+    Predicted Cost: 116.922
+    Real Cost: 113.6
+
+Day 15
+UCS:
+	Visited Nodes: 6
+	Execution Time: 1517936 ns
+	Path: 10Node9e(11.33) -> 10Node3e(35.226) -> 9Node4e(12.051) -> 9Node6e(24.102) -> 9Node5e(23.69) -> 9Node0e
+	Predicted Cost: 106.399
+	Real Cost: 116.6
+IDA*:
+	Visited Nodes number: 5
+	Execution Time: 29524448 ns
+	Path: 10Node9e(11.33) -> 10Node3e(35.226) -> 9Node4e(11.588) -> 9Node1e(84.975) -> 9Node0e
+    Predicted Cost: 143.119
+    Real Cost: 152.25
+
+Day 16
+UCS:
+	Visited Nodes: 6
+	Execution Time: 1790418 ns
+	Path: 10Node9e(11.396) -> 10Node3e(39.368) -> 9Node4e(12.121) -> 9Node6e(26.936) -> 9Node5e(23.828) -> 9Node0e
+	Predicted Cost: 113.649
+	Real Cost: 125.7
+IDA*:
+	Visited Nodes number: 6
+	Execution Time: 33289948 ns
+	Path: 10Node9e(11.396) -> 10Node3e(61.124) -> 9Node6e(12.121) -> 9Node4e(9.324) -> 9Node1e(61.538) -> 9Node0e
+    Predicted Cost: 155.503
+    Real Cost: 156.7
+
+Day 17
+UCS:
+	Visited Nodes: 6
+	Execution Time: 1934556 ns
+	Path: 10Node9e(11.462) -> 10Node3e(39.596) -> 9Node4e(28.134) -> 9Node8e(11.254) -> 9Node5e(23.966) -> 9Node0e
+	Predicted Cost: 114.412
+	Real Cost: 116.75
+IDA*:
+	Visited Nodes number: 6
+	Execution Time: 31918720 ns
+	Path: 10Node9e(11.462) -> 10Node3e(61.478) -> 9Node6e(16.932) -> 9Node4e(9.378) -> 9Node1e(61.895) -> 9Node0e
+    Predicted Cost: 161.145
+    Real Cost: 150.1
+
+Day 18
+UCS:
+	Visited Nodes: 6
+	Execution Time: 2075531 ns
+	Path: 10Node9e(11.47) -> 10Node3e(39.624) -> 9Node4e(28.154) -> 9Node8e(11.262) -> 9Node5e(23.983) -> 9Node0e
+	Predicted Cost: 114.493
+	Real Cost: 122.3
+IDA*:
+	Visited Nodes number: 6
+	Execution Time: 32377628 ns
+	Path: 10Node9e(11.47) -> 10Node3e(61.522) -> 9Node6e(13.556) -> 9Node4e(11.731) -> 9Node1e(68.822) -> 9Node0e
+    Predicted Cost: 167.101
+    Real Cost: 160.25
+
+Day 19
+UCS:
+	Visited Nodes: 6
+	Execution Time: 1683214 ns
+	Path: 10Node9e(11.479) -> 10Node3e(39.653) -> 9Node4e(12.209) -> 9Node6e(27.131) -> 9Node5e(30.001) -> 9Node0e
+	Predicted Cost: 120.473
+	Real Cost: 126.9
+IDA*:
+	Visited Nodes number: 6
+	Execution Time: 44156895 ns
+	Path: 10Node9e(11.479) -> 10Node3e(55.41) -> 9Node6e(12.209) -> 9Node4e(9.392) -> 9Node1e(61.984) -> 9Node0e
+    Predicted Cost: 150.474
+    Real Cost: 155.35
+
+Day 20
+UCS:
+	Visited Nodes: 6
+	Execution Time: 1609790 ns
+	Path: 10Node9e(10.39) -> 10Node3e(35.893) -> 9Node4e(12.279) -> 9Node6e(24.558) -> 9Node5e(24.139) -> 9Node0e
+	Predicted Cost: 107.259
+	Real Cost: 124.6
+IDA*:
+	Visited Nodes number: 6
+	Execution Time: 41764682 ns
+	Path: 10Node9e(10.39) -> 10Node3e(55.728) -> 9Node6e(12.279) -> 9Node4e(8.501) -> 9Node1e(62.34) -> 9Node0e
+    Predicted Cost: 149.238
+    Real Cost: 145.35
+
+Day 21
+UCS:
+	Visited Nodes: 5
+	Execution Time: 1649446 ns
+	Path: 10Node9e(11.553) -> 10Node3e(61.965) -> 9Node6e(27.306) -> 9Node5e(24.156) -> 9Node0e
+	Predicted Cost: 124.98
+	Real Cost: 116.4
+IDA*:
+	Visited Nodes number: 6
+	Execution Time: 27043861 ns
+	Path: 10Node9e(11.553) -> 10Node3e(61.965) -> 9Node6e(47.261) -> 9Node3e(42.01) -> 9Node1e(69.317) -> 9Node0e
+    Predicted Cost: 232.106
+    Real Cost: 232.25
+
+Day 22
+UCS:
+	Visited Nodes: 6
+	Execution Time: 1713302 ns
+	Path: 10Node9e(11.52) -> 10Node3e(35.816) -> 9Node4e(17.018) -> 9Node6e(24.506) -> 9Node5e(24.087) -> 9Node0e
+	Predicted Cost: 112.947
+	Real Cost: 123.9
+IDA*:
+	Visited Nodes number: 6
+	Execution Time: 24809444 ns
+	Path: 10Node9e(11.52) -> 10Node3e(77.235) -> 9Node6e(17.018) -> 9Node4e(9.425) -> 9Node1e(62.207) -> 9Node0e
+    Predicted Cost: 177.405
+    Real Cost: 195.25
+
+Day 23
+UCS:
+	Visited Nodes: 5
+	Execution Time: 1637287 ns
+	Path: 10Node9e(11.586) -> 10Node3e(55.928) -> 9Node6e(24.646) -> 9Node5e(24.225) -> 9Node0e
+	Predicted Cost: 116.385
+	Real Cost: 110.5
+IDA*:
+	Visited Nodes number: 6
+	Execution Time: 30155599 ns
+	Path: 10Node9e(11.586) -> 10Node3e(55.928) -> 9Node6e(13.692) -> 9Node4e(9.479) -> 9Node1e(62.563) -> 9Node0e
+    Predicted Cost: 153.248
+    Real Cost: 145.5
+
+Day 24
+UCS:
+	Visited Nodes: 6
+	Execution Time: 1720313 ns
+	Path: 10Node9e(11.536) -> 10Node3e(35.867) -> 9Node4e(12.27) -> 9Node6e(27.268) -> 9Node5e(24.121) -> 9Node0e
+	Predicted Cost: 111.062
+	Real Cost: 115.5
+IDA*:
+	Visited Nodes number: 6
+	Execution Time: 32760220 ns
+	Path: 10Node9e(11.536) -> 10Node3e(55.689) -> 9Node6e(12.27) -> 9Node4e(11.798) -> 9Node1e(86.522) -> 9Node0e
+    Predicted Cost: 177.815
+    Real Cost: 145.35
+
+Day 25
+UCS:
+	Visited Nodes: 6
+	Execution Time: 1823914 ns
+	Path: 10Node9e(11.544) -> 10Node3e(35.893) -> 9Node4e(13.643) -> 9Node6e(27.287) -> 9Node5e(24.138) -> 9Node0e
+	Predicted Cost: 112.505
+	Real Cost: 111.0
+IDA*:
+	Visited Nodes number: 6
+	Execution Time: 36004968 ns
+	Path: 10Node9e(11.544) -> 10Node3e(61.921) -> 9Node6e(13.643) -> 9Node4e(9.446) -> 9Node1e(69.267) -> 9Node0e
+    Predicted Cost: 165.821
+    Real Cost: 158.0
+
+Day 26
+UCS:
+	Visited Nodes: 6
+	Execution Time: 2407709 ns
+	Path: 10Node9e(11.495) -> 10Node3e(35.739) -> 9Node4e(13.585) -> 9Node6e(24.453) -> 9Node5e(24.035) -> 9Node0e
+	Predicted Cost: 109.307
+	Real Cost: 111.4
+IDA*:
+	Visited Nodes number: 6
+	Execution Time: 30935218 ns
+	Path: 10Node9e(11.495) -> 10Node3e(61.655) -> 9Node6e(13.585) -> 9Node4e(9.405) -> 9Node1e(68.97) -> 9Node0e
+    Predicted Cost: 165.11
+    Real Cost: 174.5
+
+Day 27
+UCS:
+	Visited Nodes: 5
+	Execution Time: 4938464 ns
+	Path: 10Node9e(10.405) -> 10Node3e(62.009) -> 9Node6e(24.593) -> 9Node5e(24.173) -> 9Node0e
+	Predicted Cost: 121.18
+	Real Cost: 119.15
+IDA*:
+	Visited Nodes number: 6
+	Execution Time: 67250583 ns
+	Path: 10Node9e(10.405) -> 10Node3e(62.009) -> 9Node6e(17.079) -> 9Node4e(9.459) -> 9Node1e(62.429) -> 9Node0e
+    Predicted Cost: 161.381
+    Real Cost: 157.4
+
+Day 28
+UCS:
+	Visited Nodes: 6
+	Execution Time: 1448939 ns
+	Path: 10Node9e(11.512) -> 10Node3e(39.767) -> 9Node4e(12.244) -> 9Node6e(24.488) -> 9Node5e(24.07) -> 9Node0e
+	Predicted Cost: 112.081
+	Real Cost: 107.1
+IDA*:
+	Visited Nodes number: 6
+	Execution Time: 28684902 ns
+	Path: 10Node9e(11.512) -> 10Node3e(55.569) -> 9Node6e(12.244) -> 9Node4e(9.418) -> 9Node1e(69.069) -> 9Node0e
+    Predicted Cost: 157.812
+    Real Cost: 144.2
+
+Day 29
+UCS:
+	Visited Nodes: 6
+	Execution Time: 1671377 ns
+	Path: 10Node9e(11.462) -> 10Node3e(35.636) -> 9Node4e(31.26) -> 9Node8e(12.504) -> 9Node5e(23.966) -> 9Node0e
+	Predicted Cost: 114.828
+	Real Cost: 116.5
+IDA*:
+	Visited Nodes number: 6
+	Execution Time: 29578372 ns
+	Path: 10Node9e(11.462) -> 10Node3e(61.478) -> 9Node6e(16.933) -> 9Node4e(11.723) -> 9Node1e(68.772) -> 9Node0e
+    Predicted Cost: 170.368
+    Real Cost: 156.9
+
+Day 30
+UCS:
+	Visited Nodes: 6
+	Execution Time: 1217989 ns
+	Path: 10Node9e(11.47) -> 10Node3e(39.624) -> 9Node4e(12.2) -> 9Node6e(24.4) -> 9Node5e(23.983) -> 9Node0e
+	Predicted Cost: 111.677
+	Real Cost: 116.2
+IDA*:
+	Visited Nodes number: 6
+	Execution Time: 28879845 ns
+	Path: 10Node9e(11.47) -> 10Node3e(61.522) -> 9Node6e(12.2) -> 9Node4e(11.731) -> 9Node1e(86.027) -> 9Node0e
+    Predicted Cost: 182.95
+    Real Cost: 158.95
+
+Day 31
+UCS:
+	Visited Nodes: 6
+	Execution Time: 1456768 ns
+	Path: 10Node9e(11.479) -> 10Node3e(39.653) -> 9Node4e(13.566) -> 9Node6e(27.131) -> 9Node5e(24.0) -> 9Node0e
+	Predicted Cost: 115.829
+	Real Cost: 108.4
+IDA*:
+	Visited Nodes number: 6
+	Execution Time: 26611347 ns
+	Path: 10Node9e(11.479) -> 10Node3e(61.566) -> 9Node6e(13.566) -> 9Node4e(9.392) -> 9Node1e(61.984) -> 9Node0e
+    Predicted Cost: 157.987
+    Real Cost: 158.0
+
+Day 32
+UCS:
+	Visited Nodes: 6
+	Execution Time: 1715448 ns
+	Path: 10Node9e(11.445) -> 10Node3e(39.539) -> 9Node4e(31.215) -> 9Node8e(12.486) -> 9Node5e(29.914) -> 9Node0e
+	Predicted Cost: 124.599
+	Real Cost: 119.2
+IDA*:
+	Visited Nodes number: 6
+	Execution Time: 28079004 ns
+	Path: 10Node9e(11.445) -> 10Node3e(61.389) -> 9Node6e(13.526) -> 9Node4e(9.364) -> 9Node1e(85.841) -> 9Node0e
+    Predicted Cost: 181.565
+    Real Cost: 151.4
+
+Day 33
+UCS:
+	Visited Nodes: 5
+	Execution Time: 1893760 ns
+	Path: 10Node9e(11.396) -> 10Node3e(61.124) -> 9Node6e(26.936) -> 9Node5e(23.828) -> 9Node0e
+	Predicted Cost: 123.284
+	Real Cost: 119.0
+IDA*:
+	Visited Nodes number: 6
+	Execution Time: 28298509 ns
+	Path: 10Node9e(11.396) -> 10Node3e(61.124) -> 9Node6e(41.958) -> 9Node3e(41.44) -> 9Node1e(68.376) -> 9Node0e
+    Predicted Cost: 224.294
+    Real Cost: 214.4
+
+Day 34
+UCS:
+	Visited Nodes: 5
+	Execution Time: 2001924 ns
+	Path: 10Node9e(11.346) -> 10Node3e(54.773) -> 9Node6e(24.137) -> 9Node5e(23.724) -> 9Node0e
+	Predicted Cost: 113.98
+	Real Cost: 110.5
+IDA*:
+	Visited Nodes number: 6
+	Execution Time: 35428053 ns
+	Path: 10Node9e(11.346) -> 10Node3e(54.773) -> 9Node6e(16.762) -> 9Node4e(9.284) -> 9Node1e(85.099) -> 9Node0e
+    Predicted Cost: 177.264
+    Real Cost: 155.35
+
+Day 35
+UCS:
+	Visited Nodes: 6
+	Execution Time: 2134408 ns
+	Path: 10Node9e(11.297) -> 10Node3e(39.026) -> 9Node4e(13.351) -> 9Node6e(26.702) -> 9Node5e(23.621) -> 9Node0e
+	Predicted Cost: 113.997
+	Real Cost: 113.7
+IDA*:
+	Visited Nodes number: 6
+	Execution Time: 29597847 ns
+	Path: 10Node9e(11.297) -> 10Node3e(60.593) -> 9Node6e(13.351) -> 9Node4e(9.243) -> 9Node1e(84.727) -> 9Node0e
+    Predicted Cost: 179.211
+    Real Cost: 158.0
+
+Day 36
+UCS:
+	Visited Nodes: 5
+	Execution Time: 2165981 ns
+	Path: 10Node9e(11.264) -> 10Node3e(60.416) -> 9Node6e(23.962) -> 9Node5e(23.552) -> 9Node0e
+	Predicted Cost: 119.194
+	Real Cost: 119.0
+IDA*:
+	Visited Nodes number: 6
+	Execution Time: 29296940 ns
+	Path: 10Node9e(11.264) -> 10Node3e(60.416) -> 9Node6e(13.312) -> 9Node4e(9.216) -> 9Node1e(84.48) -> 9Node0e
+    Predicted Cost: 178.688
+    Real Cost: 174.5
+
+Day 37
+UCS:
+	Visited Nodes: 6
+	Execution Time: 1761522 ns
+	Path: 10Node9e(11.231) -> 10Node3e(34.918) -> 9Node4e(30.63) -> 9Node8e(12.252) -> 9Node5e(23.483) -> 9Node0e
+	Predicted Cost: 112.514
+	Real Cost: 115.4
+IDA*:
+	Visited Nodes number: 6
+	Execution Time: 24406789 ns
+	Path: 10Node9e(11.231) -> 10Node3e(75.299) -> 9Node6e(16.591) -> 9Node4e(8.27) -> 9Node1e(84.233) -> 9Node0e
+    Predicted Cost: 195.624
+    Real Cost: 171.65
+
+Day 38
+UCS:
+	Visited Nodes: 6
+	Execution Time: 1556061 ns
+	Path: 10Node9e(10.115) -> 10Node3e(34.944) -> 9Node4e(13.283) -> 9Node6e(23.909) -> 9Node5e(23.5) -> 9Node0e
+	Predicted Cost: 105.751
+	Real Cost: 103.5
+IDA*:
+	Visited Nodes number: 6
+	Execution Time: 48571705 ns
+	Path: 10Node9e(10.115) -> 10Node3e(54.255) -> 9Node6e(13.283) -> 9Node4e(9.196) -> 9Node1e(67.435) -> 9Node0e
+    Predicted Cost: 154.284
+    Real Cost: 144.4
+
+Day 39
+UCS:
+	Visited Nodes: 6
+	Execution Time: 1586101 ns
+	Path: 10Node9e(11.19) -> 10Node3e(38.655) -> 9Node4e(11.902) -> 9Node6e(26.448) -> 9Node5e(23.397) -> 9Node0e
+	Predicted Cost: 111.592
+	Real Cost: 116.2
+IDA*:
+	Visited Nodes number: 6
+	Execution Time: 27035638 ns
+	Path: 10Node9e(11.19) -> 10Node3e(60.018) -> 9Node6e(11.902) -> 9Node4e(9.155) -> 9Node1e(67.138) -> 9Node0e
+    Predicted Cost: 159.403
+    Real Cost: 155.8
+
+Day 40
+UCS:
+	Visited Nodes: 5
+	Execution Time: 1647130 ns
+	Path: 10Node9e(11.198) -> 10Node3e(60.062) -> 9Node6e(23.821) -> 9Node5e(23.414) -> 9Node0e
+	Predicted Cost: 118.495
+	Real Cost: 119.0
+IDA*:
+	Visited Nodes number: 6
+	Execution Time: 22363378 ns
+	Path: 10Node9e(11.198) -> 10Node3e(60.062) -> 9Node6e(16.543) -> 9Node4e(9.162) -> 9Node1e(67.188) -> 9Node0e
+    Predicted Cost: 164.153
+    Real Cost: 161.25
+
+Day 41
+UCS:
+	Visited Nodes: 6
+	Execution Time: 1429470 ns
+	Path: 10Node9e(11.165) -> 10Node3e(38.57) -> 9Node4e(16.494) -> 9Node6e(23.751) -> 9Node5e(21.011) -> 9Node0e
+	Predicted Cost: 110.991
+	Real Cost: 109.35
+IDA*:
+	Visited Nodes number: 6
+	Execution Time: 23180809 ns
+	Path: 10Node9e(11.165) -> 10Node3e(59.885) -> 9Node6e(16.494) -> 9Node4e(9.135) -> 9Node1e(83.737) -> 9Node0e
+    Predicted Cost: 180.416
+    Real Cost: 192.5
+
+Day 42
+UCS:
+	Visited Nodes: 5
+	Execution Time: 1143590 ns
+	Path: 10Node9e(13.967) -> 10Node3e(53.936) -> 9Node6e(26.41) -> 9Node5e(23.362) -> 9Node0e
+	Predicted Cost: 117.675
+	Real Cost: 122.35
+IDA*:
+	Visited Nodes number: 6
+	Execution Time: 22000531 ns
+	Path: 10Node9e(13.967) -> 10Node3e(53.936) -> 9Node6e(11.884) -> 9Node4e(9.142) -> 9Node1e(60.336) -> 9Node0e
+    Predicted Cost: 149.265
+    Real Cost: 153.55
+
+Day 43
+UCS:
+	Visited Nodes: 6
+	Execution Time: 1539223 ns
+	Path: 10Node9e(11.239) -> 10Node3e(38.826) -> 9Node4e(16.603) -> 9Node6e(26.566) -> 9Node5e(23.5) -> 9Node0e
+	Predicted Cost: 116.734
+	Real Cost: 120.75
+IDA*:
+	Visited Nodes number: 6
+	Execution Time: 33874894 ns
+	Path: 10Node9e(11.239) -> 10Node3e(60.283) -> 9Node6e(16.603) -> 9Node4e(9.196) -> 9Node1e(60.692) -> 9Node0e
+    Predicted Cost: 158.013
+    Real Cost: 154.65
+
+Day 44
+UCS:
+	Visited Nodes: 5
+	Execution Time: 1172341 ns
+	Path: 10Node9e(11.248) -> 10Node3e(54.295) -> 9Node6e(23.927) -> 9Node5e(23.517) -> 9Node0e
+	Predicted Cost: 112.987
+	Real Cost: 108.2
+IDA*:
+	Visited Nodes number: 6
+	Execution Time: 20882048 ns
+	Path: 10Node9e(11.248) -> 10Node3e(54.295) -> 9Node6e(11.963) -> 9Node4e(9.203) -> 9Node1e(60.737) -> 9Node0e
+    Predicted Cost: 147.446
+    Real Cost: 143.3
+
+Day 45
+UCS:
+	Visited Nodes: 6
+	Execution Time: 1667311 ns
+	Path: 10Node9e(11.198) -> 10Node3e(38.684) -> 9Node4e(13.234) -> 9Node6e(23.821) -> 9Node5e(23.414) -> 9Node0e
+	Predicted Cost: 110.351
+	Real Cost: 108.4
+IDA*:
+	Visited Nodes number: 6
+	Execution Time: 20515436 ns
+	Path: 10Node9e(11.198) -> 10Node3e(60.062) -> 9Node6e(13.234) -> 9Node4e(9.162) -> 9Node1e(67.188) -> 9Node0e
+    Predicted Cost: 160.844
+    Real Cost: 158.0
+
+Day 46
+UCS:
+	Visited Nodes: 6
+	Execution Time: 1178301 ns
+	Path: 10Node9e(11.149) -> 10Node3e(34.662) -> 9Node4e(13.175) -> 9Node6e(23.716) -> 9Node5e(23.31) -> 9Node0e
+	Predicted Cost: 106.012
+	Real Cost: 108.4
+IDA*:
+	Visited Nodes number: 5
+	Execution Time: 19170838 ns
+	Path: 10Node9e(11.149) -> 10Node3e(34.662) -> 9Node4e(8.209) -> 9Node1e(83.614) -> 9Node0e
+    Predicted Cost: 137.634
+    Real Cost: 116.5
+
+Day 47
+UCS:
+	Visited Nodes: 6
+	Execution Time: 1084402 ns
+	Path: 10Node9e(11.157) -> 10Node3e(38.541) -> 9Node4e(13.185) -> 9Node6e(26.37) -> 9Node5e(23.328) -> 9Node0e
+	Predicted Cost: 112.581
+	Real Cost: 126.9
+IDA*:
+	Visited Nodes number: 6
+	Execution Time: 24537392 ns
+	Path: 10Node9e(11.157) -> 10Node3e(59.841) -> 9Node6e(13.185) -> 9Node4e(9.128) -> 9Node1e(60.246) -> 9Node0e
+    Predicted Cost: 153.557
+    Real Cost: 177.75
+
+Day 48
+UCS:
+	Visited Nodes: 6
+	Execution Time: 1237322 ns
+	Path: 10Node9e(10.1) -> 10Node3e(38.77) -> 9Node4e(11.937) -> 9Node6e(26.526) -> 9Node5e(23.466) -> 9Node0e
+	Predicted Cost: 110.799
+	Real Cost: 106.0
+IDA*:
+	Visited Nodes number: 6
+	Execution Time: 36287326 ns
+	Path: 10Node9e(10.1) -> 10Node3e(54.175) -> 9Node6e(11.937) -> 9Node4e(8.264) -> 9Node1e(67.337) -> 9Node0e
+    Predicted Cost: 151.813
+    Real Cost: 142.2
+
+Day 49
+UCS:
+	Visited Nodes: 6
+	Execution Time: 1335801 ns
+	Path: 10Node9e(11.173) -> 10Node3e(48.248) -> 9Node4e(13.205) -> 9Node6e(26.41) -> 9Node5e(23.362) -> 9Node0e
+	Predicted Cost: 122.398
+	Real Cost: 107.2
+IDA*:
+	Visited Nodes number: 6
+	Execution Time: 22625726 ns
+	Path: 10Node9e(11.173) -> 10Node3e(74.912) -> 9Node6e(13.205) -> 9Node4e(9.142) -> 9Node1e(67.04) -> 9Node0e
+    Predicted Cost: 175.472
+    Real Cost: 172.75
+
+Day 50
+UCS:
+	Visited Nodes: 6
+	Execution Time: 1068081 ns
+	Path: 10Node9e(11.124) -> 10Node3e(38.427) -> 9Node4e(11.832) -> 9Node6e(23.663) -> 9Node5e(23.259) -> 9Node0e
+	Predicted Cost: 108.305
+	Real Cost: 119.2
+IDA*:
+	Visited Nodes number: 6
+	Execution Time: 23130777 ns
+	Path: 10Node9e(11.124) -> 10Node3e(53.697) -> 9Node6e(11.832) -> 9Node4e(9.101) -> 9Node1e(60.068) -> 9Node0e
+    Predicted Cost: 145.822
+    Real Cost: 167.3
+
+Day 51
+UCS:
+	Visited Nodes: 5
+	Execution Time: 1314693 ns
+	Path: 10Node9e(11.19) -> 10Node3e(60.018) -> 9Node6e(26.448) -> 9Node5e(23.397) -> 9Node0e
+	Predicted Cost: 121.053
+	Real Cost: 116.4
+IDA*:
+	Visited Nodes number: 6
+	Execution Time: 19444124 ns
+	Path: 10Node9e(11.19) -> 10Node3e(60.018) -> 9Node6e(16.53) -> 9Node4e(9.155) -> 9Node1e(60.425) -> 9Node0e
+    Predicted Cost: 157.318
+    Real Cost: 150.1
+
+Day 52
+UCS:
+	Visited Nodes: 6
+	Execution Time: 1138832 ns
+	Path: 10Node9e(11.14) -> 10Node3e(38.484) -> 9Node4e(11.849) -> 9Node6e(23.698) -> 9Node5e(23.293) -> 9Node0e
+	Predicted Cost: 108.464
+	Real Cost: 112.4
+IDA*:
+	Visited Nodes number: 6
+	Execution Time: 26710406 ns
+	Path: 10Node9e(11.14) -> 10Node3e(59.752) -> 9Node6e(11.849) -> 9Node4e(9.115) -> 9Node1e(60.157) -> 9Node0e
+    Predicted Cost: 152.013
+    Real Cost: 173.2
+
+Day 53
+UCS:
+	Visited Nodes: 6
+	Execution Time: 999294 ns
+	Path: 10Node9e(11.206) -> 10Node3e(38.712) -> 9Node4e(13.244) -> 9Node6e(23.839) -> 9Node5e(23.431) -> 9Node0e
+	Predicted Cost: 110.432
+	Real Cost: 104.6
+IDA*:
+	Visited Nodes number: 6
+	Execution Time: 19965533 ns
+	Path: 10Node9e(11.206) -> 10Node3e(75.133) -> 9Node6e(13.244) -> 9Node4e(8.252) -> 9Node1e(67.237) -> 9Node0e
+    Predicted Cost: 175.072
+    Real Cost: 171.85
+
+Day 54
+UCS:
+	Visited Nodes: 6
+	Execution Time: 1236953 ns
+	Path: 10Node9e(10.041) -> 10Node3e(34.687) -> 9Node4e(11.867) -> 9Node6e(26.37) -> 9Node5e(23.328) -> 9Node0e
+	Predicted Cost: 106.293
+	Real Cost: 104.8
+IDA*:
+	Visited Nodes number: 5
+	Execution Time: 39143802 ns
+	Path: 10Node9e(10.041) -> 10Node3e(34.687) -> 9Node4e(8.215) -> 9Node1e(83.676) -> 9Node0e
+    Predicted Cost: 136.619
+    Real Cost: 134.7
+
+Day 55
+UCS:
+	Visited Nodes: 6
+	Execution Time: 1257465 ns
+	Path: 10Node9e(9.997) -> 10Node3e(34.533) -> 9Node4e(13.127) -> 9Node6e(23.628) -> 9Node5e(23.224) -> 9Node0e
+	Predicted Cost: 104.509
+	Real Cost: 106.75
+IDA*:
+	Visited Nodes number: 5
+	Execution Time: 40590445 ns
+	Path: 10Node9e(9.997) -> 10Node3e(34.533) -> 9Node4e(11.36) -> 9Node1e(66.643) -> 9Node0e
+    Predicted Cost: 122.533
+    Real Cost: 121.35
+
+Day 56
+UCS:
+	Visited Nodes: 6
+	Execution Time: 1705690 ns
+	Path: 10Node9e(11.115) -> 10Node3e(34.559) -> 9Node4e(13.136) -> 9Node6e(23.646) -> 9Node5e(23.241) -> 9Node0e
+	Predicted Cost: 105.697
+	Real Cost: 104.6
+IDA*:
+	Visited Nodes number: 5
+	Execution Time: 18712135 ns
+	Path: 10Node9e(11.115) -> 10Node3e(34.559) -> 9Node4e(9.095) -> 9Node1e(60.024) -> 9Node0e
+    Predicted Cost: 114.793
+    Real Cost: 113.6
+
+Day 57
+UCS:
+	Visited Nodes: 6
+	Execution Time: 1293502 ns
+	Path: 10Node9e(15.09) -> 10Node0e(25.351) -> 5Node0e(5.432) -> 5Node4e(44.264) -> 5Node3e(30.18) -> 9Node0e
+	Predicted Cost: 120.317
+	Real Cost: 115.8
+IDA*:
+	Visited Nodes number: 8
+	Execution Time: 17000032 ns
+	Path: 10Node9e(15.09) -> 10Node0e(25.351) -> 5Node0e(17.102) -> 5Node1e(36.468) -> 5Node4e(12.676) -> 5Node2e(42.252) -> 5Node3e(30.18) -> 9Node0e
+    Predicted Cost: 179.119
+    Real Cost: 176.35
+
+Day 58
+UCS:
+	Visited Nodes: 6
+	Execution Time: 1723977 ns
+	Path: 10Node9e(11.017) -> 10Node3e(38.057) -> 9Node4e(13.02) -> 9Node6e(23.435) -> 9Node5e(23.034) -> 9Node0e
+	Predicted Cost: 108.563
+	Real Cost: 106.1
+IDA*:
+	Visited Nodes number: 6
+	Execution Time: 33174610 ns
+	Path: 10Node9e(11.017) -> 10Node3e(59.088) -> 9Node6e(13.02) -> 9Node4e(9.014) -> 9Node1e(59.489) -> 9Node0e
+    Predicted Cost: 151.628
+    Real Cost: 174.5
+
+Day 59
+UCS:
+	Visited Nodes: 6
+	Execution Time: 1672540 ns
+	Path: 10Node9e(11.025) -> 10Node3e(34.277) -> 9Node4e(11.726) -> 9Node6e(26.058) -> 9Node5e(28.815) -> 9Node0e
+	Predicted Cost: 111.901
+	Real Cost: 109.05
+IDA*:
+	Visited Nodes number: 5
+	Execution Time: 19334422 ns
+	Path: 10Node9e(11.025) -> 10Node3e(34.277) -> 9Node4e(9.02) -> 9Node1e(66.148) -> 9Node0e
+    Predicted Cost: 120.47
+    Real Cost: 120.2
+
+Day 60
+UCS:
+	Visited Nodes: 6
+	Execution Time: 1708183 ns
+	Path: 10Node9e(10.992) -> 10Node3e(34.174) -> 9Node4e(12.99) -> 9Node6e(25.98) -> 9Node5e(22.983) -> 9Node0e
+	Predicted Cost: 107.119
+	Real Cost: 117.5
+IDA*:
+	Visited Nodes number: 5
+	Execution Time: 42313546 ns
+	Path: 10Node9e(10.992) -> 10Node3e(34.174) -> 9Node4e(8.993) -> 9Node1e(82.438) -> 9Node0e
+    Predicted Cost: 136.597
+    Real Cost: 140.5
+
+Day 61
+UCS:
+	Visited Nodes: 6
+	Execution Time: 1144745 ns
+	Path: 10Node9e(11.058) -> 10Node3e(34.38) -> 9Node4e(27.142) -> 9Node8e(10.857) -> 9Node5e(28.901) -> 9Node0e
+	Predicted Cost: 112.338
+	Real Cost: 126.05
+IDA*:
+	Visited Nodes number: 5
+	Execution Time: 21980119 ns
+	Path: 10Node9e(11.058) -> 10Node3e(34.38) -> 9Node4e(9.047) -> 9Node1e(66.346) -> 9Node0e
+    Predicted Cost: 120.831
+    Real Cost: 124.0
+
+Day 62
+UCS:
+	Visited Nodes: 6
+	Execution Time: 1788702 ns
+	Path: 10Node9e(15.169) -> 10Node0e(25.483) -> 5Node0e(7.584) -> 5Node4e(44.495) -> 5Node3e(27.304) -> 9Node0e
+	Predicted Cost: 120.035
+	Real Cost: 119.35
+IDA*:
+	Visited Nodes number: 8
+	Execution Time: 18734401 ns
+	Path: 10Node9e(15.169) -> 10Node0e(25.483) -> 5Node0e(21.489) -> 5Node1e(36.658) -> 5Node4e(14.157) -> 5Node2e(42.472) -> 5Node3e(27.304) -> 9Node0e
+    Predicted Cost: 182.732
+    Real Cost: 185.85
+
+Day 63
+UCS:
+	Visited Nodes: 6
+	Execution Time: 1343338 ns
+	Path: 10Node9e(13.936) -> 10Node3e(38.513) -> 9Node4e(11.858) -> 9Node6e(26.351) -> 9Node5e(23.31) -> 9Node0e
+	Predicted Cost: 113.968
+	Real Cost: 108.65
+IDA*:
+	Visited Nodes number: 6
+	Execution Time: 24879232 ns
+	Path: 10Node9e(13.936) -> 10Node3e(59.797) -> 9Node6e(11.858) -> 9Node4e(8.209) -> 9Node1e(83.614) -> 9Node0e
+    Predicted Cost: 177.414
+    Real Cost: 175.05
+
+Day 64
+UCS:
+	Visited Nodes: 5
+	Execution Time: 1462672 ns
+	Path: 10Node9e(9.989) -> 10Node3e(53.578) -> 9Node6e(23.611) -> 9Node5e(23.207) -> 9Node0e
+	Predicted Cost: 110.385
+	Real Cost: 112.0
+IDA*:
+	Visited Nodes number: 6
+	Execution Time: 38950337 ns
+	Path: 10Node9e(9.989) -> 10Node3e(53.578) -> 9Node6e(16.396) -> 9Node4e(9.081) -> 9Node1e(83.243) -> 9Node0e
+    Predicted Cost: 172.287
+    Real Cost: 144.4
+
+Day 65
+UCS:
+	Visited Nodes: 5
+	Execution Time: 1428888 ns
+	Path: 10Node9e(11.107) -> 10Node3e(53.618) -> 9Node6e(23.628) -> 9Node5e(23.224) -> 9Node0e
+	Predicted Cost: 111.577
+	Real Cost: 110.5
+IDA*:
+	Visited Nodes number: 6
+	Execution Time: 26167395 ns
+	Path: 10Node9e(11.107) -> 10Node3e(53.618) -> 9Node6e(16.408) -> 9Node4e(11.36) -> 9Node1e(66.643) -> 9Node0e
+    Predicted Cost: 159.136
+    Real Cost: 174.1
+
+Day 66
+UCS:
+	Visited Nodes: 6
+	Execution Time: 1230629 ns
+	Path: 10Node9e(11.116) -> 10Node3e(34.559) -> 9Node4e(13.136) -> 9Node6e(23.646) -> 9Node5e(23.242) -> 9Node0e
+	Predicted Cost: 105.699
+	Real Cost: 107.2
+IDA*:
+	Visited Nodes number: 5
+	Execution Time: 20179987 ns
+	Path: 10Node9e(11.116) -> 10Node3e(34.559) -> 9Node4e(9.095) -> 9Node1e(66.693) -> 9Node0e
+    Predicted Cost: 121.463
+    Real Cost: 120.2
+
+Day 67
+UCS:
+	Visited Nodes: 6
+	Execution Time: 1229657 ns
+	Path: 10Node9e(10.011) -> 10Node3e(34.585) -> 9Node4e(11.832) -> 9Node6e(26.292) -> 9Node5e(23.259) -> 9Node0e
+	Predicted Cost: 105.979
+	Real Cost: 114.35
+IDA*:
+	Visited Nodes number: 5
+	Execution Time: 36540400 ns
+	Path: 10Node9e(10.011) -> 10Node3e(34.585) -> 9Node4e(9.101) -> 9Node1e(60.068) -> 9Node0e
+    Predicted Cost: 113.765
+    Real Cost: 116.3
+
+Day 68
+UCS:
+	Visited Nodes: 6
+	Execution Time: 1069474 ns
+	Path: 10Node9e(15.259) -> 10Node0e(25.635) -> 5Node0e(5.493) -> 5Node4e(44.759) -> 5Node3e(30.517) -> 9Node0e
+	Predicted Cost: 121.663
+	Real Cost: 141.0
+IDA*:
+	Visited Nodes number: 8
+	Execution Time: 17385165 ns
+	Path: 10Node9e(15.259) -> 10Node0e(25.635) -> 5Node0e(17.293) -> 5Node1e(36.875) -> 5Node4e(12.817) -> 5Node2e(42.724) -> 5Node3e(30.517) -> 9Node0e
+    Predicted Cost: 181.12
+    Real Cost: 186.15
+
+Day 69
+UCS:
+	Visited Nodes: 5
+	Execution Time: 1883867 ns
+	Path: 10Node9e(11.256) -> 10Node3e(60.372) -> 9Node6e(26.605) -> 9Node5e(23.535) -> 9Node0e
+	Predicted Cost: 121.768
+	Real Cost: 119.0
+IDA*:
+	Visited Nodes number: 6
+	Execution Time: 23279752 ns
+	Path: 10Node9e(11.256) -> 10Node3e(60.372) -> 9Node6e(16.628) -> 9Node4e(9.209) -> 9Node1e(67.534) -> 9Node0e
+    Predicted Cost: 164.999
+    Real Cost: 161.25
+
+Day 70
+UCS:
+	Visited Nodes: 5
+	Execution Time: 1861745 ns
+	Path: 10Node9e(11.206) -> 10Node3e(60.106) -> 9Node6e(23.839) -> 9Node5e(23.431) -> 9Node0e
+	Predicted Cost: 118.582
+	Real Cost: 116.4
+IDA*:
+	Visited Nodes number: 6
+	Execution Time: 20219261 ns
+	Path: 10Node9e(11.206) -> 10Node3e(60.106) -> 9Node6e(11.919) -> 9Node4e(9.169) -> 9Node1e(67.237) -> 9Node0e
+    Predicted Cost: 159.637
+    Real Cost: 150.1
+
+Day 71
+UCS:
+	Visited Nodes: 6
+	Execution Time: 1432746 ns
+	Path: 10Node9e(13.946) -> 10Node3e(48.177) -> 9Node4e(30.427) -> 9Node8e(10.954) -> 9Node5e(23.328) -> 9Node0e
+	Predicted Cost: 126.832
+	Real Cost: 111.75
+IDA*:
+	Visited Nodes number: 6
+	Execution Time: 20264795 ns
+	Path: 10Node9e(13.946) -> 10Node3e(59.841) -> 9Node6e(41.077) -> 9Node3e(40.57) -> 9Node1e(66.941) -> 9Node0e
+    Predicted Cost: 222.375
+    Real Cost: 219.25
+
+Day 72
+UCS:
+	Visited Nodes: 6
+	Execution Time: 1174763 ns
+	Path: 10Node9e(13.85) -> 10Node3e(38.275) -> 9Node4e(13.094) -> 9Node6e(23.57) -> 9Node5e(23.167) -> 9Node0e
+	Predicted Cost: 111.956
+	Real Cost: 126.4
+IDA*:
+	Visited Nodes number: 6
+	Execution Time: 21555447 ns
+	Path: 10Node9e(13.85) -> 10Node3e(53.485) -> 9Node6e(13.094) -> 9Node4e(9.065) -> 9Node1e(59.831) -> 9Node0e
+    Predicted Cost: 149.325
+    Real Cost: 148.25
+
+Day 73
+UCS:
+	Visited Nodes: 6
+	Execution Time: 1107826 ns
+	Path: 10Node9e(11.08) -> 10Node3e(38.275) -> 9Node4e(13.094) -> 9Node6e(26.188) -> 9Node5e(20.85) -> 9Node0e
+	Predicted Cost: 109.487
+	Real Cost: 115.2
+IDA*:
+	Visited Nodes number: 6
+	Execution Time: 29308797 ns
+	Path: 10Node9e(11.08) -> 10Node3e(53.485) -> 9Node6e(13.094) -> 9Node4e(11.332) -> 9Node1e(66.478) -> 9Node0e
+    Predicted Cost: 155.469
+    Real Cost: 144.6
+
+Day 74
+UCS:
+	Visited Nodes: 5
+	Execution Time: 1537043 ns
+	Path: 10Node9e(11.08) -> 10Node3e(59.428) -> 9Node6e(26.188) -> 9Node5e(20.85) -> 9Node0e
+	Predicted Cost: 117.546
+	Real Cost: 123.2
+IDA*:
+	Visited Nodes number: 6
+	Execution Time: 18862066 ns
+	Path: 10Node9e(11.08) -> 10Node3e(59.428) -> 9Node6e(16.368) -> 9Node4e(8.159) -> 9Node1e(83.098) -> 9Node0e
+    Predicted Cost: 178.133
+    Real Cost: 173.6
+
+Day 75
+UCS:
+	Visited Nodes: 6
+	Execution Time: 1969525 ns
+	Path: 10Node9e(13.85) -> 10Node3e(34.448) -> 9Node4e(13.094) -> 9Node6e(23.57) -> 9Node5e(23.167) -> 9Node0e
+	Predicted Cost: 108.129
+	Real Cost: 113.1
+IDA*:
+	Visited Nodes number: 6
+	Execution Time: 26224212 ns
+	Path: 10Node9e(13.85) -> 10Node3e(53.485) -> 9Node6e(13.094) -> 9Node4e(9.065) -> 9Node1e(59.831) -> 9Node0e
+    Predicted Cost: 149.325
+    Real Cost: 148.25
+
+Day 76
+UCS:
+	Visited Nodes: 6
+	Execution Time: 1196670 ns
+	Path: 10Node9e(11.08) -> 10Node3e(38.275) -> 9Node4e(13.094) -> 9Node6e(23.57) -> 9Node5e(23.167) -> 9Node0e
+	Predicted Cost: 109.186
+	Real Cost: 108.4
+IDA*:
+	Visited Nodes number: 6
+	Execution Time: 19779044 ns
+	Path: 10Node9e(11.08) -> 10Node3e(74.285) -> 9Node6e(13.094) -> 9Node4e(9.065) -> 9Node1e(66.478) -> 9Node0e
+    Predicted Cost: 174.002
+    Real Cost: 189.25
+
+Day 77
+UCS:
+	Visited Nodes: 6
+	Execution Time: 2032270 ns
+	Path: 10Node9e(11.104) -> 10Node3e(38.361) -> 9Node4e(13.123) -> 9Node6e(23.622) -> 9Node5e(29.023) -> 9Node0e
+	Predicted Cost: 115.233
+	Real Cost: 126.25
+IDA*:
+	Visited Nodes number: 6
+	Execution Time: 21971065 ns
+	Path: 10Node9e(11.104) -> 10Node3e(53.604) -> 9Node6e(13.123) -> 9Node4e(9.085) -> 9Node1e(59.964) -> 9Node0e
+    Predicted Cost: 146.88
+    Real Cost: 145.5
+
+Day 78
+UCS:
+	Visited Nodes: 6
+	Execution Time: 1570082 ns
+	Path: 10Node9e(11.099) -> 10Node3e(38.342) -> 9Node4e(13.117) -> 9Node6e(23.611) -> 9Node5e(29.009) -> 9Node0e
+	Predicted Cost: 115.178
+	Real Cost: 116.75
+IDA*:
+	Visited Nodes number: 6
+	Execution Time: 21261105 ns
+	Path: 10Node9e(11.099) -> 10Node3e(53.578) -> 9Node6e(13.117) -> 9Node4e(9.081) -> 9Node1e(59.935) -> 9Node0e
+    Predicted Cost: 146.81
+    Real Cost: 145.5
+
+Day 79
+UCS:
+	Visited Nodes: 5
+	Execution Time: 1825035 ns
+	Path: 10Node9e(11.099) -> 10Node3e(59.531) -> 9Node6e(26.234) -> 9Node5e(23.207) -> 9Node0e
+	Predicted Cost: 120.071
+	Real Cost: 124.4
+IDA*:
+	Visited Nodes number: 6
+	Execution Time: 28817372 ns
+	Path: 10Node9e(11.099) -> 10Node3e(59.531) -> 9Node6e(16.396) -> 9Node4e(9.081) -> 9Node1e(66.594) -> 9Node0e
+    Predicted Cost: 162.701
+    Real Cost: 159.25
+
+Day 80
+UCS:
+	Visited Nodes: 6
+	Execution Time: 1987009 ns
+	Path: 10Node9e(13.874) -> 10Node3e(34.508) -> 9Node4e(11.805) -> 9Node6e(23.611) -> 9Node5e(23.207) -> 9Node0e
+	Predicted Cost: 107.005
+	Real Cost: 106.05
+IDA*:
+	Visited Nodes number: 6
+	Execution Time: 27318568 ns
+	Path: 10Node9e(13.874) -> 10Node3e(53.578) -> 9Node6e(11.805) -> 9Node4e(9.081) -> 9Node1e(83.243) -> 9Node0e
+    Predicted Cost: 171.581
+    Real Cost: 153.55
+
+Average daily real cost :
+	IDA*: 161.934
+	UCS: 115.818
